@@ -1,0 +1,14 @@
+{Error using Comparison_Algorithms (line 58)
+An UndefinedFunction error was thrown on the workers for 'allcomb'.  This might
+be because the file containing 'allcomb' is not accessible on the workers.  Use
+addAttachedFiles(pool, files) to specify the required files to be attached.
+See the documentation for 'parallel.Pool/addAttachedFiles' for more details.
+
+Error in run (line 96)
+evalin('caller', [script ';']);
+
+Caused by:
+    Undefined function 'allcomb' for input arguments of type 'double'.
+} 
+mv: cannot stat `/scratch/QL_Experiments/script/final_comparison.mat': No such file or directory
+mv: cannot stat `/scratch/QL_Experiments/script/final_comparison.mat': No such file or directory

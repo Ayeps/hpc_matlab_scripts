@@ -1,0 +1,7317 @@
+Starting execution of job 5553500 from user fwilhelmi
+Starting at Wed May 10 18:34:03 CEST 2017
+Calling Matlab now
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 8 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 8
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+-----------------------
+OPTIMAL CONFIGURATION CALCULATION
+-----------------------
+------------------------------------
+  Number of WLANs = 2
+------------------------------------
+++++++++++++++++
+ROUND 9/100
+++++++++++++++++
+++++++++++++++++
+ROUND 36/100
+++++++++++++++++
+++++++++++++++++
+ROUND 64/100
+++++++++++++++++
+Analyzing and transferring files to the workers ...done.
+Matlab processing done. Moving data back
+Starting execution of job 5553501 from user fwilhelmi
+Starting at Wed May 10 18:36:07 CEST 2017
+Calling Matlab now
+
+                            < M A T L A B (R) >
+                  Copyright 1984-2015 The MathWorks, Inc.
+                   R2015b (8.6.0.267246) 64-bit (glnxa64)
+                              August 20, 2015
+
+ 
+To get started, type one of these: helpwin, helpdesk, or demo.
+For product information, visit www.mathworks.com.
+ 
+
+	Academic License
+
+Starting parallel pool (parpool) using the 'local' profile ... connected to 8 workers.
+
+ans = 
+
+ Pool with properties: 
+
+            Connected: true
+           NumWorkers: 8
+              Cluster: local
+        AttachedFiles: {}
+          IdleTimeout: 30 minute(s) (30 minutes remaining)
+          SpmdEnabled: true
+
+-----------------------
+OPTIMAL CONFIGURATION CALCULATION
+-----------------------
+------------------------------------
+  Number of WLANs = 2
+------------------------------------
+++++++++++++++++
+ROUND 58/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 44/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 18/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 64/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 51/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 27/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 36/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 9/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 43/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 17/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 63/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 35/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 57/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 50/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 26/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 8/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 56/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 42/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 16/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 62/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 34/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 49/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 25/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 7/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 55/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 41/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 15/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 61/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 48/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 24/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 33/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 54/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 40/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 14/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 60/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 6/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 47/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 23/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 32/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 53/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 39/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 13/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 59/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 22/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 31/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 46/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 5/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 52/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:5
+++++++++++++++++
+ROUND 38/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 12/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 69/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 30/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 45/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 21/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 4/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 73/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 37/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 11/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 68/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 20/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 29/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 77/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 72/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 80/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 3/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 10/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 67/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 19/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 76/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 28/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 71/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 79/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 83/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 2/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 66/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 75/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 86/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 88/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 70/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 78/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 82/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 1/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 65/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 74/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 85/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 87/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 90/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 92/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 81/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 94/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 96/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 84/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 100/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 98/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 89/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 91/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 93/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 95/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 99/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 97/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+------------------------------------
+  Number of WLANs = 4
+------------------------------------
+++++++++++++++++
+ROUND 18/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 36/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 58/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 44/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 64/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 27/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 51/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 9/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:5
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 57/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:10
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 17/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 35/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 43/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 63/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 26/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 50/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 8/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 56/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 16/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 34/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 42/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 62/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 25/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:10
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 49/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 7/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 55/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 41/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 15/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:5
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 33/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 61/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 24/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:10
+   * WLAN4:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 48/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 6/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 54/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 40/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 14/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 32/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 60/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 23/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 47/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 53/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 39/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 13/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 31/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 59/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 22/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 5/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 46/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 52/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 12/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 38/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 30/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 69/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 21/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 45/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 4/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 73/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 37/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 11/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:10
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 68/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 29/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 20/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 77/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 3/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 72/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 80/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 10/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 28/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 67/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 19/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:5
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 76/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 2/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 71/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 79/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 83/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:10
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 66/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 86/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 88/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 75/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 1/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 78/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 70/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 82/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 85/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:10
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 65/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 87/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:10
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 74/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 90/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 92/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 94/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 81/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 84/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 98/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 96/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 100/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 89/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 91/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:5
+   * WLAN2:
+       - Channel:2
+       - TPC:5
+   * WLAN3:
+       - Channel:1
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 93/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 97/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 99/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 95/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+------------------------------------
+  Number of WLANs = 6
+------------------------------------
+++++++++++++++++
+ROUND 27/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 64/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 58/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 44/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 18/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 51/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 36/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 9/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 26/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 63/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:10
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 17/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 57/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 43/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:10
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 35/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 50/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:10
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 8/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 25/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 62/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 42/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:15
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 16/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 34/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 56/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 49/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 7/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 41/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 33/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 24/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 61/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 15/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 55/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 48/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 6/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 40/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 32/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 23/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 60/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 14/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 54/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 47/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 5/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 39/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 31/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 22/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 13/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 59/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:15
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 53/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:15
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 46/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 4/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:5
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:10
+++++++++++++++++
+ROUND 38/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:15
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 21/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:10
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 30/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 12/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 52/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 69/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 45/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 3/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 37/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 11/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 68/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 20/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 29/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 73/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 77/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 80/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 10/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 67/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 2/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 19/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:15
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 28/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:10
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 72/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 76/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 86/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 79/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 71/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 83/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:15
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 66/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 88/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 1/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:10
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 75/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 85/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:15
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 70/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:10
+++++++++++++++++
+ROUND 78/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 82/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 65/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 87/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:5
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 90/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 74/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:5
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 92/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:5
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:15
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 84/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 81/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 94/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 96/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 98/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:15
+++++++++++++++++
+ROUND 89/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 100/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 91/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 95/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 93/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:15
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 97/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 99/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+------------------------------------
+  Number of WLANs = 8
+------------------------------------
+++++++++++++++++
+ROUND 18/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 27/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 44/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 36/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 58/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 64/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 9/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 51/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 17/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 26/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 35/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:15
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 57/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 43/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 63/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 8/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:15
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 50/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:5
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 34/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 62/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 56/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 16/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 25/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:15
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 42/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 7/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 49/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:5
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 33/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:15
+++++++++++++++++
+ROUND 61/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 41/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:15
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:15
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 55/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 15/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 24/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 6/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 48/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:15
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:10
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 32/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 60/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 40/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 54/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 14/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 23/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 5/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 47/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:15
+   * WLAN3:
+       - Channel:4
+       - TPC:10
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 31/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 59/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:10
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 39/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 53/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:5
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 13/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 22/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 4/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 46/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:15
+++++++++++++++++
+ROUND 30/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 69/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:15
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 38/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:10
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 12/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:15
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 52/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:5
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 21/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:10
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 3/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 45/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 29/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 68/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 37/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 11/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 20/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 73/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 2/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 77/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:5
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 28/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:10
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 67/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 80/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 10/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:15
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+       - Channel:4
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 19/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 72/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:15
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 1/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 76/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 66/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 83/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:15
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 79/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 86/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 88/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 71/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 90/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:10
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 75/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 82/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 65/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 78/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:10
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 85/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:15
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 87/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:15
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 70/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:15
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 89/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 74/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 81/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:1
+       - TPC:20
+++++++++++++++++
+ROUND 94/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 92/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 84/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:2
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:2
+       - TPC:15
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 96/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 98/100
+++++++++++++++++
+   * WLAN1:
+++++++++++++++++
+ROUND 100/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+++++++++++++++++
+ROUND 93/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:10
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 91/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:4
+       - TPC:20
+   * WLAN2:
+       - Channel:3
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:15
+   * WLAN4:
+       - Channel:2
+       - TPC:20
+   * WLAN5:
+       - Channel:1
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+++++++++++++++++
+ROUND 95/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:1
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:20
+   * WLAN6:
+       - Channel:2
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:3
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:4
+       - TPC:20
+   * WLAN5:
+       - Channel:4
+       - TPC:15
+   * WLAN6:
+       - Channel:1
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 97/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:15
+   * WLAN2:
+       - Channel:2
+       - TPC:20
+   * WLAN3:
+       - Channel:4
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:1
+       - TPC:20
+   * WLAN8:
+       - Channel:3
+       - TPC:20
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:4
+       - TPC:20
+   * WLAN3:
+       - Channel:3
+       - TPC:20
+   * WLAN4:
+       - Channel:1
+       - TPC:20
+   * WLAN5:
+       - Channel:3
+       - TPC:20
+   * WLAN6:
+       - Channel:4
+       - TPC:20
+   * WLAN7:
+       - Channel:3
+       - TPC:20
+   * WLAN8:
+       - Channel:2
+       - TPC:20
+++++++++++++++++
+ROUND 99/100
+++++++++++++++++
+   * WLAN1:
+       - Channel:1
+       - TPC:20
+   * WLAN2:
+       - Channel:1
+       - TPC:20
+   * WLAN3:
+       - Channel:2
+       - TPC:20
+   * WLAN4:
+       - Channel:3
+       - TPC:20
+   * WLAN5:
+       - Channel:2
+       - TPC:20
+   * WLAN6:
+       - Channel:3
+       - TPC:20
+   * WLAN7:
+       - Channel:4
+       - TPC:20
+   * WLAN8:
+       - Channel:4
+       - TPC:20
+plot_agg_tpt
+   1.0e+03 *
+
+    0.5475    0.5470    0.5471    0.5474
+    1.2099    1.3241    1.3245    1.3544
+    1.7777    2.0800    1.9983    2.1191
+    2.3323    2.7797    2.7058    2.8591
+
+plot_std_agg_tpt
+  194.0467  195.0482  194.8493  194.1019
+  158.6147  175.9468  199.2205  181.1958
+  168.5741  189.9478  239.0891  212.2951
+  215.2331  234.8603  294.6525  259.2954
+
+plot_fairness
+    0.9498    0.9808    0.9619    0.9663
+    0.8033    0.9117    0.8738    0.9012
+    0.7659    0.8752    0.8203    0.8911
+    0.7439    0.8587    0.7961    0.8769
+
+plot_std_fairness
+    0.0502    0.0385    0.0555    0.0493
+    0.0596    0.0572    0.0857    0.0528
+    0.0475    0.0410    0.0701    0.0447
+    0.0428    0.0340    0.0710    0.0464
+
+Matlab processing done. Moving data back

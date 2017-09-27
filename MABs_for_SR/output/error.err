@@ -1,0 +1,11 @@
+{Error using save
+Cannot create 'final_comparison_workspace.mat' because './output' does not
+exist.
+
+Error in Experiment_5_Performance_Comparison_Random_Network (line 224)
+save('./output/final_comparison_workspace.mat')
+
+
+Error in run (line 96)
+evalin('caller', [script ';']);
+} 
